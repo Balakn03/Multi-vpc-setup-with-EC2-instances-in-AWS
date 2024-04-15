@@ -27,7 +27,7 @@ EC2 Instances:
     Provisioned EC2 instances in each subnet (public and private).
     Hosted a dummy website on private instances.
 
-###############################################################################################################
+###########################################################################################################
 Testing and Verification:
 Ping Operation:
     Successfully tested connectivity between EC2 instances using ping.
